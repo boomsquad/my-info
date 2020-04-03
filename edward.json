@@ -2,5 +2,6 @@
     "firstName": "Edward",
     "lastName": "Elric",
     "age": "16",
-    "favoriteActivity": "Alchemy"
+    "favoriteActivity": "Alchemy",
+    "email": "edwardelric@lewisu.edu",
 }
