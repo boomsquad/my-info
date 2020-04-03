@@ -1,0 +1,19 @@
+{
+    "firstName": "Mohammad",
+    "lastName": "Alabed",
+    "age": "22",
+
+    "favorites":
+    {
+        "sport": "Basketball",
+        "videoGame": "Dota 2"
+    },
+
+    "currentlyWatching":
+    {
+        "anime1": "Black Clover",
+        "anime2": "My Hero Academia",
+        "anime3": "Fairy Tail",
+        "anime4": "One Punch Man"
+    }
+}
